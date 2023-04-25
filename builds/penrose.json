@@ -1,0 +1,25 @@
+{
+	"error":false,
+	"filename":"ONEPixel_Plus_penrose-13.0-20230425-0726-OFFICIAL.zip",
+	"datetime":1682003220,
+	"size":1801252863,
+	"url":"https:\/\/#",
+	"filehash":"e59025725e65abb785eaf05ba3fd8cb2",
+	"version":"thirteen-plus",
+	"status":"Active",
+	"onepixel":"0.1",
+	"id":"683e61f77e614a5ec3dd4d4b1ca0fec6221700dd380d5f6df9a14dc8b287e9f2",
+	"tg_username":"LoboMalo_SoyDeGatita",
+	"device_name":"SHARK A0",
+	"device":"penrose",
+	"xda_thread":"https:\/\/#",
+	"maintainers": [{
+		"main_maintainer":true,
+		"github_username":"BadWolf-alfa",
+		"name":"BadWolf-alfa"
+	}],
+	"donate_url":"https:\/\/paypal.me\/badwolfalfa",
+	"website_url":"https:\/\/onepixel-aosp.github.io\/",
+	"news_url":"https:\/\/t.me\/oneos_news",
+	"forum_url":"https:\/\/#"
+}

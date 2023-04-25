@@ -5,7 +5,7 @@ pull_request_rules:
       - files~=^changelogs/
       - check-success=validate-json
       - "#files=2"
-      - author=@PixelExtended/maintainers
+      - author=@ONEPixel-AOSP/maintainers
     actions:
      merge:
         method: merge
